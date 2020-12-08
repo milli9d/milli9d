@@ -7,7 +7,7 @@
 2. Operating Systems and Kernel Design
 # 😄 Fun fact: 
  
- It's Impossible to Hum While You Hold Your Nose
+In his now famous post on news:comp.os.minix, Linux creator Linus Torvalds explicitly stated, “I’m doing a (free) operating system. . . . It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks . . ..”
  
   
 
