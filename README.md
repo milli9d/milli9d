@@ -7,7 +7,11 @@
 3. Operating Systems and Kernel Design
 # 😄 Fun fact: 
  
-In his now famous post on news:comp.os.minix, Linux creator Linus Torvalds explicitly stated, “I’m doing a (free) operating system. . . . It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks . . ..”
+It was in 1947 that the first case of a computer bug was recorded. 
+
+Grace Hopper, an admiral in the US Navy, was working on a Mark II computer when she discovered a moth had become stuck in the relay, thus causing it to malfunction.
+
+Once the moth was removed, she wrote in her journal “first actual case of bug being found” – and the rest is history.
  
   
 
