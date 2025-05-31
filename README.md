@@ -1,10 +1,10 @@
 ###  
 ## ⚡  I’m currently working on ...
-1. ESP Playground SDK
+1. Writing BSP files for Seeed Studio Grove AI v2 board
+2. Playing around with a bunch of TFT displays
 ## 📖 I’m currently learning ...
-1. Getting into PSX Development 🎮
-2. Embedded Linux
-3. Operating Systems and Kernel Design
+1. Machine Learning on Embedded Systems
+2. Parallel and High-Performance Computing
 # 😄 Fun fact: 
  
 It was in 1947 that the first case of a computer bug was recorded. 
